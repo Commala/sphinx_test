@@ -22,3 +22,10 @@ Indices and tables
 First Try
 =========
 你好~ 哈哈哈哈哈哈哈哈哈哈哈嗝
+
+段落里包含 `a link`_.
+There is `a screencast`_ that will help you get started if you prefer.
+
+
+.. _a link: http://example.com/
+.. _a screencast: https://www.youtube.com/watch?feature=player_embedded&v=oJsUvBQyHBs
