@@ -12,6 +12,7 @@ Welcome to sphinx_t's documentation!
    
    intro
    tutorial
+   test
 
 
 
