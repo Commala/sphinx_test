@@ -9,7 +9,7 @@ Welcome to sphinx_t's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   
+
    intro
    tutorial
    test
@@ -33,3 +33,7 @@ There is `a screencast`_ that will help you get started if you prefer.
 
 .. _a link: http://example.com/
 .. _a screencast: https://www.youtube.com/watch?feature=player_embedded&v=oJsUvBQyHBs
+
+Add something on Windows
+------------------------
+This is 2017.07.30
