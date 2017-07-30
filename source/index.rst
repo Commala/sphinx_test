@@ -37,3 +37,5 @@ There is `a screencast`_ that will help you get started if you prefer.
 Add something on Windows
 ------------------------
 This is 2017.07.30
+
+changed in 8:09
