@@ -1,10 +1,7 @@
-.. sphinx_t documentation master file, created by
-   sphinx-quickstart on Mon Jul 24 20:53:57 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 个人知识记录
 ====================================
+
+目的：记录下自己日常学习的东西，方便日后的索引
 
 .. toctree::
    :maxdepth: 2
