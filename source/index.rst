@@ -9,29 +9,29 @@
 
 .. _测试部分:
 
-  .. toctree:
-     :maxdepth:2
-     :caption:测试部分标题
+.. toctree:
+   :maxdepth:2
+   :caption:测试部分标题
 
-     intro
-     test
-     question
+   intro
+   test
+   question
 
 .. _计算机部分:
 
-  .. toctree:
-     :maxdepth:2
-     :caption:计算机部分标题
+.. toctree:
+   :maxdepth:2
+   :caption:计算机部分标题
 
-     front_end
-     python
-     server
+   front_end
+   python
+   server
 
 .. _理财部分:
 
-  .. toctree:
+.. toctree:
 
-     :maxdepth:2
-     :caption:理财部分标题
+   :maxdepth:2
+   :caption:理财部分标题
 
-     technical_analysis
+   technical_analysis
