@@ -6,8 +6,16 @@
 * :ref:`test_part`
 * :ref:`computer`
 * :ref:`financial`
+* :ref:`user-docs`
 
 Something:
+.. _user-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: User Documentation
+
+   getting_started
 
 .. _test_part:
 
