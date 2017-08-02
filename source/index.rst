@@ -16,7 +16,6 @@ Something:
    :maxdepth: 2
    :caption: Test
 
-   index
    intro
    test
    question
