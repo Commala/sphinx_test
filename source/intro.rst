@@ -28,7 +28,11 @@ This is the first block
 
 1
 
+.. note:: 蓝色的Note标识 ``.. note::``
+
 1
+
+.. warning:: 橙色的warning标识 ``.. warning::``
 
 1
 
@@ -74,3 +78,19 @@ Run `sphinx-quickstart` in there::
 
 测试
 史蒂夫史蒂夫
+
+
+ .. sourcecode:: js
+
+      alert('test!')
+
+
+
+.. sourcecode:: python
+
+        print('hello')
+
+        import re
+
+
+test.....
