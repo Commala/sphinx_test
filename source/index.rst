@@ -19,6 +19,7 @@ Something:
    test
    question
 
+
 .. _computer:
 
 .. toctree::
@@ -28,6 +29,7 @@ Something:
    front_end
    python
    server
+
 
 .. _financial:
 
