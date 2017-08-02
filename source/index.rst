@@ -13,7 +13,7 @@ Something:
 
 .. toctree::
    :maxdepth:2
-   :caption:测试部分标题
+   :caption: 测试部分标题
 
    intro
    test
@@ -23,7 +23,7 @@ Something:
 
 .. toctree::
    :maxdepth:2
-   :caption:计算机部分标题
+   :caption: 计算机部分标题
 
    front_end
    python
@@ -34,6 +34,6 @@ Something:
 .. toctree::
 
    :maxdepth:2
-   :caption:理财部分标题
+   :caption: 理财部分标题
 
    technical_analysis
