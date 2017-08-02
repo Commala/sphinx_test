@@ -16,7 +16,7 @@ Something:
    :maxdepth: 2
    :caption: User Documentation
 
-   getting_started
+   testo
 
 .. _test_part:
 
