@@ -6,22 +6,14 @@
 * :ref:`test_part`
 * :ref:`computer`
 * :ref:`financial`
-* :ref:`user-docs`
 
 Something:
 
-.. _user-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: User Documentation
-
-   testo
 
 .. _test_part:
 
 .. toctree::
-   :maxdepth:2
+   :maxdepth: 2
    :caption: 测试部分标题
 
    intro
@@ -31,8 +23,8 @@ Something:
 .. _computer:
 
 .. toctree::
-   :maxdepth:2
-   :caption: 计算机部分标题
+   :maxdepth: 2
+   :caption: Computer
 
    front_end
    python
@@ -41,7 +33,7 @@ Something:
 .. _financial:
 
 .. toctree::
-   :maxdepth:2
+   :maxdepth: 2
    :caption: 理财部分标题
 
    technical_analysis
