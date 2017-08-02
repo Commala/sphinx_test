@@ -15,7 +15,11 @@ This is the first block
 
 1
 
-1
+    .. code-block:: Python
+
+      <code>
+      print ('hello world')
+
 
 1
 
@@ -23,17 +27,29 @@ This is the first block
 
 1
 
-1
+    print('hello world!')
+    import re
+    re.finall('\d+', '123456sfsdf')
 
 1
 
 1
 
 1
+Run ``sphinx-quickstart`` in there::
+
+    $ cd docs
+    $ sphinx-quickstart
 
 1
 
 1
+
+1
+Run `sphinx-quickstart` in there::
+
+    $ cd docs
+    $ sphinx-quickstart
 
 1
 
