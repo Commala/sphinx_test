@@ -11,6 +11,11 @@ This is the first block
 
 1
 
+.. code-block:: python
+
+  <code>
+  print ('hello world')
+
 1
 
 1
