@@ -9,6 +9,7 @@
 * :ref:`user-docs`
 
 Something:
+
 .. _user-docs:
 
 .. toctree::
