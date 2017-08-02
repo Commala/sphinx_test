@@ -14,7 +14,7 @@ Something:
 
 .. toctree::
    :maxdepth: 2
-   :caption: 测试部分标题
+   :caption: Test
 
    intro
    test
@@ -34,6 +34,6 @@ Something:
 
 .. toctree::
    :maxdepth: 2
-   :caption: 理财部分标题
+   :caption: Financial
 
    technical_analysis
