@@ -94,3 +94,11 @@ Run `sphinx-quickstart` in there::
 
 
 test.....
+
+
+..  autofunction:: embed
+
+    sdf
+    sdf sdf
+
+dsf
