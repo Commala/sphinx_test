@@ -11,7 +11,7 @@ Something:
 
 .. _test_part:
 
-.. toctree:
+.. toctree::
    :maxdepth:2
    :caption:测试部分标题
 
@@ -21,7 +21,7 @@ Something:
 
 .. _computer:
 
-.. toctree:
+.. toctree::
    :maxdepth:2
    :caption:计算机部分标题
 
@@ -31,7 +31,7 @@ Something:
 
 .. _financial:
 
-.. toctree:
+.. toctree::
 
    :maxdepth:2
    :caption:理财部分标题
