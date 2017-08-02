@@ -32,7 +32,6 @@ Something:
 .. _financial:
 
 .. toctree::
-
    :maxdepth:2
    :caption: 理财部分标题
 
