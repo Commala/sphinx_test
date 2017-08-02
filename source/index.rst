@@ -1,4 +1,4 @@
-个人知识记录
+Index
 ====================================
 
 目的：记录下自己日常学习的东西，方便日后的索引
@@ -16,9 +16,11 @@ Something:
    :maxdepth: 2
    :caption: Test
 
+   index
    intro
    test
    question
+   memo
 
 .. _computer:
 
