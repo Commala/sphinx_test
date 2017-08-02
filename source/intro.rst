@@ -60,7 +60,8 @@ Run `sphinx-quickstart` in there::
 
 内容填充
 
-
+一对点表示斜体
+两队点才表示代码
 
 
 
