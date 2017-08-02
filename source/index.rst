@@ -3,13 +3,13 @@
 
 目的：记录下自己日常学习的东西，方便日后的索引
 
-* :ref:`测试部分`
-* :ref:`计算机部分`
-* :ref:`理财部分`
+* :ref:`test_part`
+* :ref:`computer`
+* :ref:`financial`
 
 Something:
 
-.. _测试部分:
+.. _test_part:
 
 .. toctree:
    :maxdepth:2
@@ -19,7 +19,7 @@ Something:
    test
    question
 
-.. _计算机部分:
+.. _computer:
 
 .. toctree:
    :maxdepth:2
@@ -29,7 +29,7 @@ Something:
    python
    server
 
-.. _理财部分:
+.. _financial:
 
 .. toctree:
 
